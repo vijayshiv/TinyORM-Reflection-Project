@@ -1,0 +1,3 @@
+D:\Sunbeam-Assignments\Practice-MERN-Project\TinyORM-Reflection-Project\Solution-tiny-orm\ORM_Tool\bin\Release\net6.0\win-x64\publish\ORM_Tool.pdb
+D:\Sunbeam-Assignments\Practice-MERN-Project\TinyORM-Reflection-Project\Solution-tiny-orm\ORM_Tool\bin\Release\net6.0\win-x64\publish\AttributesLib.pdb
+D:\Sunbeam-Assignments\Practice-MERN-Project\TinyORM-Reflection-Project\Solution-tiny-orm\ORM_Tool\bin\Release\net6.0\win-x64\publish\ORM_Tool.exe

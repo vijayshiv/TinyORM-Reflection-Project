@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "ZZ3vUcJYXANCk4KUoaGbtoJhujkwBzl9t/d+qKy3jIWodbd+Hk5O5JJoL3GEjysvD72ymW4M/l/YWvwR15+kzA==",
+  "dgSpecHash": "2WYgFZGT3Z8gkju0WcIMon4h6c73Ckbdad9mAjoIYNlJORY/j/jLAI6rOnOXh6folpI21F3/h40u4DNWM1dbbw==",
   "success": true,
   "projectFilePath": "D:\\Sunbeam-Assignments\\Practice-MERN-Project\\TinyORM-Reflection-Project\\Solution-tiny-orm\\ORM_Tool\\ORM_Tool.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\VIJAYSHIV\\.nuget\\packages\\microsoft.net.illink.analyzers\\7.0.100-1.23211.1\\microsoft.net.illink.analyzers.7.0.100-1.23211.1.nupkg.sha512",
+    "C:\\Users\\VIJAYSHIV\\.nuget\\packages\\microsoft.net.illink.tasks\\7.0.100-1.23211.1\\microsoft.net.illink.tasks.7.0.100-1.23211.1.nupkg.sha512",
+    "C:\\Users\\VIJAYSHIV\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.29\\microsoft.netcore.app.runtime.win-x64.6.0.29.nupkg.sha512",
+    "C:\\Users\\VIJAYSHIV\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.29\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.29.nupkg.sha512",
+    "C:\\Users\\VIJAYSHIV\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.29\\microsoft.aspnetcore.app.runtime.win-x64.6.0.29.nupkg.sha512"
+  ],
   "logs": []
 }

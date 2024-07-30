@@ -10,17 +10,9 @@ namespace ORM_Tool
     {
         static void Main(string[] args)
         {
-            // Get the solution directory
-            string solutionDirectory = GetSolutionDirectory();
-
-            if (solutionDirectory == null)
-            {
-                Console.WriteLine("Solution directory not found.");
-                return;
-            }
-
-            // Set the path for the script.sql file relative to the solution directory
-            string path = Path.Combine(solutionDirectory, "script.sql");
+            // Use the current directory for the SQL file
+            string currentDirectory = Directory.GetCurrentDirectory();
+            string path = Path.Combine(currentDirectory, "script.sql");
 
             Console.WriteLine($"SQL script will be created at: {path}");
 
@@ -28,13 +20,13 @@ namespace ORM_Tool
             using (StreamWriter streamWriter = new StreamWriter(fs))
             {
                 Console.Write("Enter the POCO library path - ");
-                string poco_path = Console.ReadLine();
+                string? poco_path = Console.ReadLine();
 
                 Assembly assembly = Assembly.LoadFrom(poco_path);
                 Type[] types = assembly.GetTypes();
 
                 Console.Write("Enter the database name: ");
-                string databaseName = Console.ReadLine();
+                string? databaseName = Console.ReadLine();
 
                 string createDatabaseQuery = $@"
                 CREATE DATABASE IF NOT EXISTS {databaseName};
@@ -102,24 +94,6 @@ namespace ORM_Tool
 
             Console.WriteLine("SQL script creation completed.");
             Console.ReadLine();
-        }
-
-        static string GetSolutionDirectory()
-        {
-            string currentDirectory = Directory.GetCurrentDirectory();
-            DirectoryInfo directoryInfo = new DirectoryInfo(currentDirectory);
-
-            while (directoryInfo != null)
-            {
-                Console.WriteLine($"Checking directory: {directoryInfo.FullName}");
-                if (Directory.GetFiles(directoryInfo.FullName, "*.sln").Length > 0)
-                {
-                    return directoryInfo.FullName;
-                }
-                directoryInfo = directoryInfo.Parent;
-            }
-
-            return null;
         }
     }
 }
