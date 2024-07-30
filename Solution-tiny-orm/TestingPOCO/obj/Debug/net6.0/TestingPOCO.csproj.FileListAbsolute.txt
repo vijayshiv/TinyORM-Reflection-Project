@@ -1,0 +1,15 @@
+D:\Sunbeam-Assignments\Practice-MERN-Project\TinyORM-Reflection-Project\Solution-tiny-orm\TestingPOCO\bin\Debug\net6.0\TestingPOCO.deps.json
+D:\Sunbeam-Assignments\Practice-MERN-Project\TinyORM-Reflection-Project\Solution-tiny-orm\TestingPOCO\bin\Debug\net6.0\TestingPOCO.dll
+D:\Sunbeam-Assignments\Practice-MERN-Project\TinyORM-Reflection-Project\Solution-tiny-orm\TestingPOCO\bin\Debug\net6.0\TestingPOCO.pdb
+D:\Sunbeam-Assignments\Practice-MERN-Project\TinyORM-Reflection-Project\Solution-tiny-orm\TestingPOCO\bin\Debug\net6.0\AttributesLib.dll
+D:\Sunbeam-Assignments\Practice-MERN-Project\TinyORM-Reflection-Project\Solution-tiny-orm\TestingPOCO\bin\Debug\net6.0\AttributesLib.pdb
+D:\Sunbeam-Assignments\Practice-MERN-Project\TinyORM-Reflection-Project\Solution-tiny-orm\TestingPOCO\obj\Debug\net6.0\TestingPOCO.csproj.AssemblyReference.cache
+D:\Sunbeam-Assignments\Practice-MERN-Project\TinyORM-Reflection-Project\Solution-tiny-orm\TestingPOCO\obj\Debug\net6.0\TestingPOCO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sunbeam-Assignments\Practice-MERN-Project\TinyORM-Reflection-Project\Solution-tiny-orm\TestingPOCO\obj\Debug\net6.0\TestingPOCO.AssemblyInfoInputs.cache
+D:\Sunbeam-Assignments\Practice-MERN-Project\TinyORM-Reflection-Project\Solution-tiny-orm\TestingPOCO\obj\Debug\net6.0\TestingPOCO.AssemblyInfo.cs
+D:\Sunbeam-Assignments\Practice-MERN-Project\TinyORM-Reflection-Project\Solution-tiny-orm\TestingPOCO\obj\Debug\net6.0\TestingPOCO.csproj.CoreCompileInputs.cache
+D:\Sunbeam-Assignments\Practice-MERN-Project\TinyORM-Reflection-Project\Solution-tiny-orm\TestingPOCO\obj\Debug\net6.0\TestingP.CF470CC3.Up2Date
+D:\Sunbeam-Assignments\Practice-MERN-Project\TinyORM-Reflection-Project\Solution-tiny-orm\TestingPOCO\obj\Debug\net6.0\TestingPOCO.dll
+D:\Sunbeam-Assignments\Practice-MERN-Project\TinyORM-Reflection-Project\Solution-tiny-orm\TestingPOCO\obj\Debug\net6.0\refint\TestingPOCO.dll
+D:\Sunbeam-Assignments\Practice-MERN-Project\TinyORM-Reflection-Project\Solution-tiny-orm\TestingPOCO\obj\Debug\net6.0\TestingPOCO.pdb
+D:\Sunbeam-Assignments\Practice-MERN-Project\TinyORM-Reflection-Project\Solution-tiny-orm\TestingPOCO\obj\Debug\net6.0\ref\TestingPOCO.dll

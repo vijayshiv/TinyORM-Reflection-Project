@@ -1,0 +1,11 @@
+D:\Sunbeam-Assignments\Practice-MERN-Project\TinyORM-Reflection-Project\Solution-tiny-orm\AttributesLib\bin\Debug\net6.0\AttributesLib.deps.json
+D:\Sunbeam-Assignments\Practice-MERN-Project\TinyORM-Reflection-Project\Solution-tiny-orm\AttributesLib\bin\Debug\net6.0\AttributesLib.dll
+D:\Sunbeam-Assignments\Practice-MERN-Project\TinyORM-Reflection-Project\Solution-tiny-orm\AttributesLib\bin\Debug\net6.0\AttributesLib.pdb
+D:\Sunbeam-Assignments\Practice-MERN-Project\TinyORM-Reflection-Project\Solution-tiny-orm\AttributesLib\obj\Debug\net6.0\AttributesLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sunbeam-Assignments\Practice-MERN-Project\TinyORM-Reflection-Project\Solution-tiny-orm\AttributesLib\obj\Debug\net6.0\AttributesLib.AssemblyInfoInputs.cache
+D:\Sunbeam-Assignments\Practice-MERN-Project\TinyORM-Reflection-Project\Solution-tiny-orm\AttributesLib\obj\Debug\net6.0\AttributesLib.AssemblyInfo.cs
+D:\Sunbeam-Assignments\Practice-MERN-Project\TinyORM-Reflection-Project\Solution-tiny-orm\AttributesLib\obj\Debug\net6.0\AttributesLib.csproj.CoreCompileInputs.cache
+D:\Sunbeam-Assignments\Practice-MERN-Project\TinyORM-Reflection-Project\Solution-tiny-orm\AttributesLib\obj\Debug\net6.0\AttributesLib.dll
+D:\Sunbeam-Assignments\Practice-MERN-Project\TinyORM-Reflection-Project\Solution-tiny-orm\AttributesLib\obj\Debug\net6.0\refint\AttributesLib.dll
+D:\Sunbeam-Assignments\Practice-MERN-Project\TinyORM-Reflection-Project\Solution-tiny-orm\AttributesLib\obj\Debug\net6.0\AttributesLib.pdb
+D:\Sunbeam-Assignments\Practice-MERN-Project\TinyORM-Reflection-Project\Solution-tiny-orm\AttributesLib\obj\Debug\net6.0\ref\AttributesLib.dll
